@@ -13,7 +13,7 @@ app.use(express.static("public"))
 
 // -----------------------------------------------------
 
-mongoose.connect("mongodb+srv://admin-lian:BaskervilleSH2@primarycluster.mzzbkki.mongodb.net/todolistDB")
+mongoose.connect("mongodb+srv://admin-lian:<password>@primarycluster.mzzbkki.mongodb.net/todolistDB")
 
 const itemsSchema = {
     name: String
