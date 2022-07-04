@@ -3,4 +3,4 @@ Basic To Do App
 
 https://pristine-bryce-canyon-09329.herokuapp.com
 
-![Wall_of_Three](https://user-images.githubusercontent.com/72990357/177148759-78849f71-c736-4a2b-82e1-8d420fb732b7.png)
+![To Do List](https://user-images.githubusercontent.com/72990357/177149302-631a79e7-a989-4c4f-bcce-11cb153b0ff0.png)
